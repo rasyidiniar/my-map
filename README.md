@@ -1,2 +1,2 @@
-# my-map
-Integrasi Ionic Framework dan ArcGIS Maps SDK
+# simple-map
+Integrasi Ionic Framework dengan ArcGIS Maps SDK for JavaScript
